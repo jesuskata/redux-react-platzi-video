@@ -1,0 +1,21 @@
+.Playlist {
+    overflow-x: auto;
+    /* width: 500px; */
+    white-space: nowrap;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* height: 500px; */
+    /* background: red; */
+    overflow-y: hidden;
+    padding-bottom: 80px;
+}
+
+ul {
+    float: initial;
+}
+
+li {
+    list-style: none;
+    /* margin: 2px; */
+    float: left;
+}
